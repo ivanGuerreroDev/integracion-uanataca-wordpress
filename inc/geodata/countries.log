@@ -1,0 +1,1975 @@
+Array
+(
+    [countries] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [sortname] => AF
+                    [name] => Afghanistan
+                    [phoneCode] => 93
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [sortname] => AL
+                    [name] => Albania
+                    [phoneCode] => 355
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [sortname] => DZ
+                    [name] => Algeria
+                    [phoneCode] => 213
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [sortname] => AS
+                    [name] => American Samoa
+                    [phoneCode] => 1684
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [sortname] => AD
+                    [name] => Andorra
+                    [phoneCode] => 376
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [sortname] => AO
+                    [name] => Angola
+                    [phoneCode] => 244
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [sortname] => AI
+                    [name] => Anguilla
+                    [phoneCode] => 1264
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [sortname] => AQ
+                    [name] => Antarctica
+                    [phoneCode] => 0
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [sortname] => AG
+                    [name] => Antigua And Barbuda
+                    [phoneCode] => 1268
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [sortname] => AR
+                    [name] => Argentina
+                    [phoneCode] => 54
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [sortname] => AM
+                    [name] => Armenia
+                    [phoneCode] => 374
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [sortname] => AW
+                    [name] => Aruba
+                    [phoneCode] => 297
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [sortname] => AU
+                    [name] => Australia
+                    [phoneCode] => 61
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [sortname] => AT
+                    [name] => Austria
+                    [phoneCode] => 43
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [sortname] => AZ
+                    [name] => Azerbaijan
+                    [phoneCode] => 994
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [sortname] => BS
+                    [name] => Bahamas The
+                    [phoneCode] => 1242
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [sortname] => BH
+                    [name] => Bahrain
+                    [phoneCode] => 973
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [sortname] => BD
+                    [name] => Bangladesh
+                    [phoneCode] => 880
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [sortname] => BB
+                    [name] => Barbados
+                    [phoneCode] => 1246
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [sortname] => BY
+                    [name] => Belarus
+                    [phoneCode] => 375
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [sortname] => BE
+                    [name] => Belgium
+                    [phoneCode] => 32
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [sortname] => BZ
+                    [name] => Belize
+                    [phoneCode] => 501
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [sortname] => BJ
+                    [name] => Benin
+                    [phoneCode] => 229
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [sortname] => BM
+                    [name] => Bermuda
+                    [phoneCode] => 1441
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [sortname] => BT
+                    [name] => Bhutan
+                    [phoneCode] => 975
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [sortname] => BO
+                    [name] => Bolivia
+                    [phoneCode] => 591
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [sortname] => BA
+                    [name] => Bosnia and Herzegovina
+                    [phoneCode] => 387
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [sortname] => BW
+                    [name] => Botswana
+                    [phoneCode] => 267
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [sortname] => BV
+                    [name] => Bouvet Island
+                    [phoneCode] => 0
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [sortname] => BR
+                    [name] => Brazil
+                    [phoneCode] => 55
+                )
+
+            [30] => Array
+                (
+                    [id] => 31
+                    [sortname] => IO
+                    [name] => British Indian Ocean Territory
+                    [phoneCode] => 246
+                )
+
+            [31] => Array
+                (
+                    [id] => 32
+                    [sortname] => BN
+                    [name] => Brunei
+                    [phoneCode] => 673
+                )
+
+            [32] => Array
+                (
+                    [id] => 33
+                    [sortname] => BG
+                    [name] => Bulgaria
+                    [phoneCode] => 359
+                )
+
+            [33] => Array
+                (
+                    [id] => 34
+                    [sortname] => BF
+                    [name] => Burkina Faso
+                    [phoneCode] => 226
+                )
+
+            [34] => Array
+                (
+                    [id] => 35
+                    [sortname] => BI
+                    [name] => Burundi
+                    [phoneCode] => 257
+                )
+
+            [35] => Array
+                (
+                    [id] => 36
+                    [sortname] => KH
+                    [name] => Cambodia
+                    [phoneCode] => 855
+                )
+
+            [36] => Array
+                (
+                    [id] => 37
+                    [sortname] => CM
+                    [name] => Cameroon
+                    [phoneCode] => 237
+                )
+
+            [37] => Array
+                (
+                    [id] => 38
+                    [sortname] => CA
+                    [name] => Canada
+                    [phoneCode] => 1
+                )
+
+            [38] => Array
+                (
+                    [id] => 39
+                    [sortname] => CV
+                    [name] => Cape Verde
+                    [phoneCode] => 238
+                )
+
+            [39] => Array
+                (
+                    [id] => 40
+                    [sortname] => KY
+                    [name] => Cayman Islands
+                    [phoneCode] => 1345
+                )
+
+            [40] => Array
+                (
+                    [id] => 41
+                    [sortname] => CF
+                    [name] => Central African Republic
+                    [phoneCode] => 236
+                )
+
+            [41] => Array
+                (
+                    [id] => 42
+                    [sortname] => TD
+                    [name] => Chad
+                    [phoneCode] => 235
+                )
+
+            [42] => Array
+                (
+                    [id] => 43
+                    [sortname] => CL
+                    [name] => Chile
+                    [phoneCode] => 56
+                )
+
+            [43] => Array
+                (
+                    [id] => 44
+                    [sortname] => CN
+                    [name] => China
+                    [phoneCode] => 86
+                )
+
+            [44] => Array
+                (
+                    [id] => 45
+                    [sortname] => CX
+                    [name] => Christmas Island
+                    [phoneCode] => 61
+                )
+
+            [45] => Array
+                (
+                    [id] => 46
+                    [sortname] => CC
+                    [name] => Cocos (Keeling) Islands
+                    [phoneCode] => 672
+                )
+
+            [46] => Array
+                (
+                    [id] => 47
+                    [sortname] => CO
+                    [name] => Colombia
+                    [phoneCode] => 57
+                )
+
+            [47] => Array
+                (
+                    [id] => 48
+                    [sortname] => KM
+                    [name] => Comoros
+                    [phoneCode] => 269
+                )
+
+            [48] => Array
+                (
+                    [id] => 49
+                    [sortname] => CG
+                    [name] => Republic Of The Congo
+                    [phoneCode] => 242
+                )
+
+            [49] => Array
+                (
+                    [id] => 50
+                    [sortname] => CD
+                    [name] => Democratic Republic Of The Congo
+                    [phoneCode] => 242
+                )
+
+            [50] => Array
+                (
+                    [id] => 51
+                    [sortname] => CK
+                    [name] => Cook Islands
+                    [phoneCode] => 682
+                )
+
+            [51] => Array
+                (
+                    [id] => 52
+                    [sortname] => CR
+                    [name] => Costa Rica
+                    [phoneCode] => 506
+                )
+
+            [52] => Array
+                (
+                    [id] => 53
+                    [sortname] => CI
+                    [name] => Cote D''Ivoire (Ivory Coast)
+                    [phoneCode] => 225
+                )
+
+            [53] => Array
+                (
+                    [id] => 54
+                    [sortname] => HR
+                    [name] => Croatia (Hrvatska)
+                    [phoneCode] => 385
+                )
+
+            [54] => Array
+                (
+                    [id] => 55
+                    [sortname] => CU
+                    [name] => Cuba
+                    [phoneCode] => 53
+                )
+
+            [55] => Array
+                (
+                    [id] => 56
+                    [sortname] => CY
+                    [name] => Cyprus
+                    [phoneCode] => 357
+                )
+
+            [56] => Array
+                (
+                    [id] => 57
+                    [sortname] => CZ
+                    [name] => Czech Republic
+                    [phoneCode] => 420
+                )
+
+            [57] => Array
+                (
+                    [id] => 58
+                    [sortname] => DK
+                    [name] => Denmark
+                    [phoneCode] => 45
+                )
+
+            [58] => Array
+                (
+                    [id] => 59
+                    [sortname] => DJ
+                    [name] => Djibouti
+                    [phoneCode] => 253
+                )
+
+            [59] => Array
+                (
+                    [id] => 60
+                    [sortname] => DM
+                    [name] => Dominica
+                    [phoneCode] => 1767
+                )
+
+            [60] => Array
+                (
+                    [id] => 61
+                    [sortname] => DO
+                    [name] => Dominican Republic
+                    [phoneCode] => 1809
+                )
+
+            [61] => Array
+                (
+                    [id] => 62
+                    [sortname] => TP
+                    [name] => East Timor
+                    [phoneCode] => 670
+                )
+
+            [62] => Array
+                (
+                    [id] => 63
+                    [sortname] => EC
+                    [name] => Ecuador
+                    [phoneCode] => 593
+                )
+
+            [63] => Array
+                (
+                    [id] => 64
+                    [sortname] => EG
+                    [name] => Egypt
+                    [phoneCode] => 20
+                )
+
+            [64] => Array
+                (
+                    [id] => 65
+                    [sortname] => SV
+                    [name] => El Salvador
+                    [phoneCode] => 503
+                )
+
+            [65] => Array
+                (
+                    [id] => 66
+                    [sortname] => GQ
+                    [name] => Equatorial Guinea
+                    [phoneCode] => 240
+                )
+
+            [66] => Array
+                (
+                    [id] => 67
+                    [sortname] => ER
+                    [name] => Eritrea
+                    [phoneCode] => 291
+                )
+
+            [67] => Array
+                (
+                    [id] => 68
+                    [sortname] => EE
+                    [name] => Estonia
+                    [phoneCode] => 372
+                )
+
+            [68] => Array
+                (
+                    [id] => 69
+                    [sortname] => ET
+                    [name] => Ethiopia
+                    [phoneCode] => 251
+                )
+
+            [69] => Array
+                (
+                    [id] => 70
+                    [sortname] => XA
+                    [name] => External Territories of Australia
+                    [phoneCode] => 61
+                )
+
+            [70] => Array
+                (
+                    [id] => 71
+                    [sortname] => FK
+                    [name] => Falkland Islands
+                    [phoneCode] => 500
+                )
+
+            [71] => Array
+                (
+                    [id] => 72
+                    [sortname] => FO
+                    [name] => Faroe Islands
+                    [phoneCode] => 298
+                )
+
+            [72] => Array
+                (
+                    [id] => 73
+                    [sortname] => FJ
+                    [name] => Fiji Islands
+                    [phoneCode] => 679
+                )
+
+            [73] => Array
+                (
+                    [id] => 74
+                    [sortname] => FI
+                    [name] => Finland
+                    [phoneCode] => 358
+                )
+
+            [74] => Array
+                (
+                    [id] => 75
+                    [sortname] => FR
+                    [name] => France
+                    [phoneCode] => 33
+                )
+
+            [75] => Array
+                (
+                    [id] => 76
+                    [sortname] => GF
+                    [name] => French Guiana
+                    [phoneCode] => 594
+                )
+
+            [76] => Array
+                (
+                    [id] => 77
+                    [sortname] => PF
+                    [name] => French Polynesia
+                    [phoneCode] => 689
+                )
+
+            [77] => Array
+                (
+                    [id] => 78
+                    [sortname] => TF
+                    [name] => French Southern Territories
+                    [phoneCode] => 0
+                )
+
+            [78] => Array
+                (
+                    [id] => 79
+                    [sortname] => GA
+                    [name] => Gabon
+                    [phoneCode] => 241
+                )
+
+            [79] => Array
+                (
+                    [id] => 80
+                    [sortname] => GM
+                    [name] => Gambia The
+                    [phoneCode] => 220
+                )
+
+            [80] => Array
+                (
+                    [id] => 81
+                    [sortname] => GE
+                    [name] => Georgia
+                    [phoneCode] => 995
+                )
+
+            [81] => Array
+                (
+                    [id] => 82
+                    [sortname] => DE
+                    [name] => Germany
+                    [phoneCode] => 49
+                )
+
+            [82] => Array
+                (
+                    [id] => 83
+                    [sortname] => GH
+                    [name] => Ghana
+                    [phoneCode] => 233
+                )
+
+            [83] => Array
+                (
+                    [id] => 84
+                    [sortname] => GI
+                    [name] => Gibraltar
+                    [phoneCode] => 350
+                )
+
+            [84] => Array
+                (
+                    [id] => 85
+                    [sortname] => GR
+                    [name] => Greece
+                    [phoneCode] => 30
+                )
+
+            [85] => Array
+                (
+                    [id] => 86
+                    [sortname] => GL
+                    [name] => Greenland
+                    [phoneCode] => 299
+                )
+
+            [86] => Array
+                (
+                    [id] => 87
+                    [sortname] => GD
+                    [name] => Grenada
+                    [phoneCode] => 1473
+                )
+
+            [87] => Array
+                (
+                    [id] => 88
+                    [sortname] => GP
+                    [name] => Guadeloupe
+                    [phoneCode] => 590
+                )
+
+            [88] => Array
+                (
+                    [id] => 89
+                    [sortname] => GU
+                    [name] => Guam
+                    [phoneCode] => 1671
+                )
+
+            [89] => Array
+                (
+                    [id] => 90
+                    [sortname] => GT
+                    [name] => Guatemala
+                    [phoneCode] => 502
+                )
+
+            [90] => Array
+                (
+                    [id] => 91
+                    [sortname] => XU
+                    [name] => Guernsey and Alderney
+                    [phoneCode] => 44
+                )
+
+            [91] => Array
+                (
+                    [id] => 92
+                    [sortname] => GN
+                    [name] => Guinea
+                    [phoneCode] => 224
+                )
+
+            [92] => Array
+                (
+                    [id] => 93
+                    [sortname] => GW
+                    [name] => Guinea-Bissau
+                    [phoneCode] => 245
+                )
+
+            [93] => Array
+                (
+                    [id] => 94
+                    [sortname] => GY
+                    [name] => Guyana
+                    [phoneCode] => 592
+                )
+
+            [94] => Array
+                (
+                    [id] => 95
+                    [sortname] => HT
+                    [name] => Haiti
+                    [phoneCode] => 509
+                )
+
+            [95] => Array
+                (
+                    [id] => 96
+                    [sortname] => HM
+                    [name] => Heard and McDonald Islands
+                    [phoneCode] => 0
+                )
+
+            [96] => Array
+                (
+                    [id] => 97
+                    [sortname] => HN
+                    [name] => Honduras
+                    [phoneCode] => 504
+                )
+
+            [97] => Array
+                (
+                    [id] => 98
+                    [sortname] => HK
+                    [name] => Hong Kong S.A.R.
+                    [phoneCode] => 852
+                )
+
+            [98] => Array
+                (
+                    [id] => 99
+                    [sortname] => HU
+                    [name] => Hungary
+                    [phoneCode] => 36
+                )
+
+            [99] => Array
+                (
+                    [id] => 100
+                    [sortname] => IS
+                    [name] => Iceland
+                    [phoneCode] => 354
+                )
+
+            [100] => Array
+                (
+                    [id] => 101
+                    [sortname] => IN
+                    [name] => India
+                    [phoneCode] => 91
+                )
+
+            [101] => Array
+                (
+                    [id] => 102
+                    [sortname] => ID
+                    [name] => Indonesia
+                    [phoneCode] => 62
+                )
+
+            [102] => Array
+                (
+                    [id] => 103
+                    [sortname] => IR
+                    [name] => Iran
+                    [phoneCode] => 98
+                )
+
+            [103] => Array
+                (
+                    [id] => 104
+                    [sortname] => IQ
+                    [name] => Iraq
+                    [phoneCode] => 964
+                )
+
+            [104] => Array
+                (
+                    [id] => 105
+                    [sortname] => IE
+                    [name] => Ireland
+                    [phoneCode] => 353
+                )
+
+            [105] => Array
+                (
+                    [id] => 106
+                    [sortname] => IL
+                    [name] => Israel
+                    [phoneCode] => 972
+                )
+
+            [106] => Array
+                (
+                    [id] => 107
+                    [sortname] => IT
+                    [name] => Italy
+                    [phoneCode] => 39
+                )
+
+            [107] => Array
+                (
+                    [id] => 108
+                    [sortname] => JM
+                    [name] => Jamaica
+                    [phoneCode] => 1876
+                )
+
+            [108] => Array
+                (
+                    [id] => 109
+                    [sortname] => JP
+                    [name] => Japan
+                    [phoneCode] => 81
+                )
+
+            [109] => Array
+                (
+                    [id] => 110
+                    [sortname] => XJ
+                    [name] => Jersey
+                    [phoneCode] => 44
+                )
+
+            [110] => Array
+                (
+                    [id] => 111
+                    [sortname] => JO
+                    [name] => Jordan
+                    [phoneCode] => 962
+                )
+
+            [111] => Array
+                (
+                    [id] => 112
+                    [sortname] => KZ
+                    [name] => Kazakhstan
+                    [phoneCode] => 7
+                )
+
+            [112] => Array
+                (
+                    [id] => 113
+                    [sortname] => KE
+                    [name] => Kenya
+                    [phoneCode] => 254
+                )
+
+            [113] => Array
+                (
+                    [id] => 114
+                    [sortname] => KI
+                    [name] => Kiribati
+                    [phoneCode] => 686
+                )
+
+            [114] => Array
+                (
+                    [id] => 115
+                    [sortname] => KP
+                    [name] => Korea North
+                    [phoneCode] => 850
+                )
+
+            [115] => Array
+                (
+                    [id] => 116
+                    [sortname] => KR
+                    [name] => Korea South
+                    [phoneCode] => 82
+                )
+
+            [116] => Array
+                (
+                    [id] => 117
+                    [sortname] => KW
+                    [name] => Kuwait
+                    [phoneCode] => 965
+                )
+
+            [117] => Array
+                (
+                    [id] => 118
+                    [sortname] => KG
+                    [name] => Kyrgyzstan
+                    [phoneCode] => 996
+                )
+
+            [118] => Array
+                (
+                    [id] => 119
+                    [sortname] => LA
+                    [name] => Laos
+                    [phoneCode] => 856
+                )
+
+            [119] => Array
+                (
+                    [id] => 120
+                    [sortname] => LV
+                    [name] => Latvia
+                    [phoneCode] => 371
+                )
+
+            [120] => Array
+                (
+                    [id] => 121
+                    [sortname] => LB
+                    [name] => Lebanon
+                    [phoneCode] => 961
+                )
+
+            [121] => Array
+                (
+                    [id] => 122
+                    [sortname] => LS
+                    [name] => Lesotho
+                    [phoneCode] => 266
+                )
+
+            [122] => Array
+                (
+                    [id] => 123
+                    [sortname] => LR
+                    [name] => Liberia
+                    [phoneCode] => 231
+                )
+
+            [123] => Array
+                (
+                    [id] => 124
+                    [sortname] => LY
+                    [name] => Libya
+                    [phoneCode] => 218
+                )
+
+            [124] => Array
+                (
+                    [id] => 125
+                    [sortname] => LI
+                    [name] => Liechtenstein
+                    [phoneCode] => 423
+                )
+
+            [125] => Array
+                (
+                    [id] => 126
+                    [sortname] => LT
+                    [name] => Lithuania
+                    [phoneCode] => 370
+                )
+
+            [126] => Array
+                (
+                    [id] => 127
+                    [sortname] => LU
+                    [name] => Luxembourg
+                    [phoneCode] => 352
+                )
+
+            [127] => Array
+                (
+                    [id] => 128
+                    [sortname] => MO
+                    [name] => Macau S.A.R.
+                    [phoneCode] => 853
+                )
+
+            [128] => Array
+                (
+                    [id] => 129
+                    [sortname] => MK
+                    [name] => Macedonia
+                    [phoneCode] => 389
+                )
+
+            [129] => Array
+                (
+                    [id] => 130
+                    [sortname] => MG
+                    [name] => Madagascar
+                    [phoneCode] => 261
+                )
+
+            [130] => Array
+                (
+                    [id] => 131
+                    [sortname] => MW
+                    [name] => Malawi
+                    [phoneCode] => 265
+                )
+
+            [131] => Array
+                (
+                    [id] => 132
+                    [sortname] => MY
+                    [name] => Malaysia
+                    [phoneCode] => 60
+                )
+
+            [132] => Array
+                (
+                    [id] => 133
+                    [sortname] => MV
+                    [name] => Maldives
+                    [phoneCode] => 960
+                )
+
+            [133] => Array
+                (
+                    [id] => 134
+                    [sortname] => ML
+                    [name] => Mali
+                    [phoneCode] => 223
+                )
+
+            [134] => Array
+                (
+                    [id] => 135
+                    [sortname] => MT
+                    [name] => Malta
+                    [phoneCode] => 356
+                )
+
+            [135] => Array
+                (
+                    [id] => 136
+                    [sortname] => XM
+                    [name] => Man (Isle of)
+                    [phoneCode] => 44
+                )
+
+            [136] => Array
+                (
+                    [id] => 137
+                    [sortname] => MH
+                    [name] => Marshall Islands
+                    [phoneCode] => 692
+                )
+
+            [137] => Array
+                (
+                    [id] => 138
+                    [sortname] => MQ
+                    [name] => Martinique
+                    [phoneCode] => 596
+                )
+
+            [138] => Array
+                (
+                    [id] => 139
+                    [sortname] => MR
+                    [name] => Mauritania
+                    [phoneCode] => 222
+                )
+
+            [139] => Array
+                (
+                    [id] => 140
+                    [sortname] => MU
+                    [name] => Mauritius
+                    [phoneCode] => 230
+                )
+
+            [140] => Array
+                (
+                    [id] => 141
+                    [sortname] => YT
+                    [name] => Mayotte
+                    [phoneCode] => 269
+                )
+
+            [141] => Array
+                (
+                    [id] => 142
+                    [sortname] => MX
+                    [name] => Mexico
+                    [phoneCode] => 52
+                )
+
+            [142] => Array
+                (
+                    [id] => 143
+                    [sortname] => FM
+                    [name] => Micronesia
+                    [phoneCode] => 691
+                )
+
+            [143] => Array
+                (
+                    [id] => 144
+                    [sortname] => MD
+                    [name] => Moldova
+                    [phoneCode] => 373
+                )
+
+            [144] => Array
+                (
+                    [id] => 145
+                    [sortname] => MC
+                    [name] => Monaco
+                    [phoneCode] => 377
+                )
+
+            [145] => Array
+                (
+                    [id] => 146
+                    [sortname] => MN
+                    [name] => Mongolia
+                    [phoneCode] => 976
+                )
+
+            [146] => Array
+                (
+                    [id] => 147
+                    [sortname] => MS
+                    [name] => Montserrat
+                    [phoneCode] => 1664
+                )
+
+            [147] => Array
+                (
+                    [id] => 148
+                    [sortname] => MA
+                    [name] => Morocco
+                    [phoneCode] => 212
+                )
+
+            [148] => Array
+                (
+                    [id] => 149
+                    [sortname] => MZ
+                    [name] => Mozambique
+                    [phoneCode] => 258
+                )
+
+            [149] => Array
+                (
+                    [id] => 150
+                    [sortname] => MM
+                    [name] => Myanmar
+                    [phoneCode] => 95
+                )
+
+            [150] => Array
+                (
+                    [id] => 151
+                    [sortname] => NA
+                    [name] => Namibia
+                    [phoneCode] => 264
+                )
+
+            [151] => Array
+                (
+                    [id] => 152
+                    [sortname] => NR
+                    [name] => Nauru
+                    [phoneCode] => 674
+                )
+
+            [152] => Array
+                (
+                    [id] => 153
+                    [sortname] => NP
+                    [name] => Nepal
+                    [phoneCode] => 977
+                )
+
+            [153] => Array
+                (
+                    [id] => 154
+                    [sortname] => AN
+                    [name] => Netherlands Antilles
+                    [phoneCode] => 599
+                )
+
+            [154] => Array
+                (
+                    [id] => 155
+                    [sortname] => NL
+                    [name] => Netherlands The
+                    [phoneCode] => 31
+                )
+
+            [155] => Array
+                (
+                    [id] => 156
+                    [sortname] => NC
+                    [name] => New Caledonia
+                    [phoneCode] => 687
+                )
+
+            [156] => Array
+                (
+                    [id] => 157
+                    [sortname] => NZ
+                    [name] => New Zealand
+                    [phoneCode] => 64
+                )
+
+            [157] => Array
+                (
+                    [id] => 158
+                    [sortname] => NI
+                    [name] => Nicaragua
+                    [phoneCode] => 505
+                )
+
+            [158] => Array
+                (
+                    [id] => 159
+                    [sortname] => NE
+                    [name] => Niger
+                    [phoneCode] => 227
+                )
+
+            [159] => Array
+                (
+                    [id] => 160
+                    [sortname] => NG
+                    [name] => Nigeria
+                    [phoneCode] => 234
+                )
+
+            [160] => Array
+                (
+                    [id] => 161
+                    [sortname] => NU
+                    [name] => Niue
+                    [phoneCode] => 683
+                )
+
+            [161] => Array
+                (
+                    [id] => 162
+                    [sortname] => NF
+                    [name] => Norfolk Island
+                    [phoneCode] => 672
+                )
+
+            [162] => Array
+                (
+                    [id] => 163
+                    [sortname] => MP
+                    [name] => Northern Mariana Islands
+                    [phoneCode] => 1670
+                )
+
+            [163] => Array
+                (
+                    [id] => 164
+                    [sortname] => NO
+                    [name] => Norway
+                    [phoneCode] => 47
+                )
+
+            [164] => Array
+                (
+                    [id] => 165
+                    [sortname] => OM
+                    [name] => Oman
+                    [phoneCode] => 968
+                )
+
+            [165] => Array
+                (
+                    [id] => 166
+                    [sortname] => PK
+                    [name] => Pakistan
+                    [phoneCode] => 92
+                )
+
+            [166] => Array
+                (
+                    [id] => 167
+                    [sortname] => PW
+                    [name] => Palau
+                    [phoneCode] => 680
+                )
+
+            [167] => Array
+                (
+                    [id] => 168
+                    [sortname] => PS
+                    [name] => Palestinian Territory Occupied
+                    [phoneCode] => 970
+                )
+
+            [168] => Array
+                (
+                    [id] => 169
+                    [sortname] => PA
+                    [name] => Panama
+                    [phoneCode] => 507
+                )
+
+            [169] => Array
+                (
+                    [id] => 170
+                    [sortname] => PG
+                    [name] => Papua new Guinea
+                    [phoneCode] => 675
+                )
+
+            [170] => Array
+                (
+                    [id] => 171
+                    [sortname] => PY
+                    [name] => Paraguay
+                    [phoneCode] => 595
+                )
+
+            [171] => Array
+                (
+                    [id] => 172
+                    [sortname] => PE
+                    [name] => Peru
+                    [phoneCode] => 51
+                )
+
+            [172] => Array
+                (
+                    [id] => 173
+                    [sortname] => PH
+                    [name] => Philippines
+                    [phoneCode] => 63
+                )
+
+            [173] => Array
+                (
+                    [id] => 174
+                    [sortname] => PN
+                    [name] => Pitcairn Island
+                    [phoneCode] => 0
+                )
+
+            [174] => Array
+                (
+                    [id] => 175
+                    [sortname] => PL
+                    [name] => Poland
+                    [phoneCode] => 48
+                )
+
+            [175] => Array
+                (
+                    [id] => 176
+                    [sortname] => PT
+                    [name] => Portugal
+                    [phoneCode] => 351
+                )
+
+            [176] => Array
+                (
+                    [id] => 177
+                    [sortname] => PR
+                    [name] => Puerto Rico
+                    [phoneCode] => 1787
+                )
+
+            [177] => Array
+                (
+                    [id] => 178
+                    [sortname] => QA
+                    [name] => Qatar
+                    [phoneCode] => 974
+                )
+
+            [178] => Array
+                (
+                    [id] => 179
+                    [sortname] => RE
+                    [name] => Reunion
+                    [phoneCode] => 262
+                )
+
+            [179] => Array
+                (
+                    [id] => 180
+                    [sortname] => RO
+                    [name] => Romania
+                    [phoneCode] => 40
+                )
+
+            [180] => Array
+                (
+                    [id] => 181
+                    [sortname] => RU
+                    [name] => Russia
+                    [phoneCode] => 70
+                )
+
+            [181] => Array
+                (
+                    [id] => 182
+                    [sortname] => RW
+                    [name] => Rwanda
+                    [phoneCode] => 250
+                )
+
+            [182] => Array
+                (
+                    [id] => 183
+                    [sortname] => SH
+                    [name] => Saint Helena
+                    [phoneCode] => 290
+                )
+
+            [183] => Array
+                (
+                    [id] => 184
+                    [sortname] => KN
+                    [name] => Saint Kitts And Nevis
+                    [phoneCode] => 1869
+                )
+
+            [184] => Array
+                (
+                    [id] => 185
+                    [sortname] => LC
+                    [name] => Saint Lucia
+                    [phoneCode] => 1758
+                )
+
+            [185] => Array
+                (
+                    [id] => 186
+                    [sortname] => PM
+                    [name] => Saint Pierre and Miquelon
+                    [phoneCode] => 508
+                )
+
+            [186] => Array
+                (
+                    [id] => 187
+                    [sortname] => VC
+                    [name] => Saint Vincent And The Grenadines
+                    [phoneCode] => 1784
+                )
+
+            [187] => Array
+                (
+                    [id] => 188
+                    [sortname] => WS
+                    [name] => Samoa
+                    [phoneCode] => 684
+                )
+
+            [188] => Array
+                (
+                    [id] => 189
+                    [sortname] => SM
+                    [name] => San Marino
+                    [phoneCode] => 378
+                )
+
+            [189] => Array
+                (
+                    [id] => 190
+                    [sortname] => ST
+                    [name] => Sao Tome and Principe
+                    [phoneCode] => 239
+                )
+
+            [190] => Array
+                (
+                    [id] => 191
+                    [sortname] => SA
+                    [name] => Saudi Arabia
+                    [phoneCode] => 966
+                )
+
+            [191] => Array
+                (
+                    [id] => 192
+                    [sortname] => SN
+                    [name] => Senegal
+                    [phoneCode] => 221
+                )
+
+            [192] => Array
+                (
+                    [id] => 193
+                    [sortname] => RS
+                    [name] => Serbia
+                    [phoneCode] => 381
+                )
+
+            [193] => Array
+                (
+                    [id] => 194
+                    [sortname] => SC
+                    [name] => Seychelles
+                    [phoneCode] => 248
+                )
+
+            [194] => Array
+                (
+                    [id] => 195
+                    [sortname] => SL
+                    [name] => Sierra Leone
+                    [phoneCode] => 232
+                )
+
+            [195] => Array
+                (
+                    [id] => 196
+                    [sortname] => SG
+                    [name] => Singapore
+                    [phoneCode] => 65
+                )
+
+            [196] => Array
+                (
+                    [id] => 197
+                    [sortname] => SK
+                    [name] => Slovakia
+                    [phoneCode] => 421
+                )
+
+            [197] => Array
+                (
+                    [id] => 198
+                    [sortname] => SI
+                    [name] => Slovenia
+                    [phoneCode] => 386
+                )
+
+            [198] => Array
+                (
+                    [id] => 199
+                    [sortname] => XG
+                    [name] => Smaller Territories of the UK
+                    [phoneCode] => 44
+                )
+
+            [199] => Array
+                (
+                    [id] => 200
+                    [sortname] => SB
+                    [name] => Solomon Islands
+                    [phoneCode] => 677
+                )
+
+            [200] => Array
+                (
+                    [id] => 201
+                    [sortname] => SO
+                    [name] => Somalia
+                    [phoneCode] => 252
+                )
+
+            [201] => Array
+                (
+                    [id] => 202
+                    [sortname] => ZA
+                    [name] => South Africa
+                    [phoneCode] => 27
+                )
+
+            [202] => Array
+                (
+                    [id] => 203
+                    [sortname] => GS
+                    [name] => South Georgia
+                    [phoneCode] => 0
+                )
+
+            [203] => Array
+                (
+                    [id] => 204
+                    [sortname] => SS
+                    [name] => South Sudan
+                    [phoneCode] => 211
+                )
+
+            [204] => Array
+                (
+                    [id] => 205
+                    [sortname] => ES
+                    [name] => Spain
+                    [phoneCode] => 34
+                )
+
+            [205] => Array
+                (
+                    [id] => 206
+                    [sortname] => LK
+                    [name] => Sri Lanka
+                    [phoneCode] => 94
+                )
+
+            [206] => Array
+                (
+                    [id] => 207
+                    [sortname] => SD
+                    [name] => Sudan
+                    [phoneCode] => 249
+                )
+
+            [207] => Array
+                (
+                    [id] => 208
+                    [sortname] => SR
+                    [name] => Suriname
+                    [phoneCode] => 597
+                )
+
+            [208] => Array
+                (
+                    [id] => 209
+                    [sortname] => SJ
+                    [name] => Svalbard And Jan Mayen Islands
+                    [phoneCode] => 47
+                )
+
+            [209] => Array
+                (
+                    [id] => 210
+                    [sortname] => SZ
+                    [name] => Swaziland
+                    [phoneCode] => 268
+                )
+
+            [210] => Array
+                (
+                    [id] => 211
+                    [sortname] => SE
+                    [name] => Sweden
+                    [phoneCode] => 46
+                )
+
+            [211] => Array
+                (
+                    [id] => 212
+                    [sortname] => CH
+                    [name] => Switzerland
+                    [phoneCode] => 41
+                )
+
+            [212] => Array
+                (
+                    [id] => 213
+                    [sortname] => SY
+                    [name] => Syria
+                    [phoneCode] => 963
+                )
+
+            [213] => Array
+                (
+                    [id] => 214
+                    [sortname] => TW
+                    [name] => Taiwan
+                    [phoneCode] => 886
+                )
+
+            [214] => Array
+                (
+                    [id] => 215
+                    [sortname] => TJ
+                    [name] => Tajikistan
+                    [phoneCode] => 992
+                )
+
+            [215] => Array
+                (
+                    [id] => 216
+                    [sortname] => TZ
+                    [name] => Tanzania
+                    [phoneCode] => 255
+                )
+
+            [216] => Array
+                (
+                    [id] => 217
+                    [sortname] => TH
+                    [name] => Thailand
+                    [phoneCode] => 66
+                )
+
+            [217] => Array
+                (
+                    [id] => 218
+                    [sortname] => TG
+                    [name] => Togo
+                    [phoneCode] => 228
+                )
+
+            [218] => Array
+                (
+                    [id] => 219
+                    [sortname] => TK
+                    [name] => Tokelau
+                    [phoneCode] => 690
+                )
+
+            [219] => Array
+                (
+                    [id] => 220
+                    [sortname] => TO
+                    [name] => Tonga
+                    [phoneCode] => 676
+                )
+
+            [220] => Array
+                (
+                    [id] => 221
+                    [sortname] => TT
+                    [name] => Trinidad And Tobago
+                    [phoneCode] => 1868
+                )
+
+            [221] => Array
+                (
+                    [id] => 222
+                    [sortname] => TN
+                    [name] => Tunisia
+                    [phoneCode] => 216
+                )
+
+            [222] => Array
+                (
+                    [id] => 223
+                    [sortname] => TR
+                    [name] => Turkey
+                    [phoneCode] => 90
+                )
+
+            [223] => Array
+                (
+                    [id] => 224
+                    [sortname] => TM
+                    [name] => Turkmenistan
+                    [phoneCode] => 7370
+                )
+
+            [224] => Array
+                (
+                    [id] => 225
+                    [sortname] => TC
+                    [name] => Turks And Caicos Islands
+                    [phoneCode] => 1649
+                )
+
+            [225] => Array
+                (
+                    [id] => 226
+                    [sortname] => TV
+                    [name] => Tuvalu
+                    [phoneCode] => 688
+                )
+
+            [226] => Array
+                (
+                    [id] => 227
+                    [sortname] => UG
+                    [name] => Uganda
+                    [phoneCode] => 256
+                )
+
+            [227] => Array
+                (
+                    [id] => 228
+                    [sortname] => UA
+                    [name] => Ukraine
+                    [phoneCode] => 380
+                )
+
+            [228] => Array
+                (
+                    [id] => 229
+                    [sortname] => AE
+                    [name] => United Arab Emirates
+                    [phoneCode] => 971
+                )
+
+            [229] => Array
+                (
+                    [id] => 230
+                    [sortname] => GB
+                    [name] => United Kingdom
+                    [phoneCode] => 44
+                )
+
+            [230] => Array
+                (
+                    [id] => 231
+                    [sortname] => US
+                    [name] => United States
+                    [phoneCode] => 1
+                )
+
+            [231] => Array
+                (
+                    [id] => 232
+                    [sortname] => UM
+                    [name] => United States Minor Outlying Islands
+                    [phoneCode] => 1
+                )
+
+            [232] => Array
+                (
+                    [id] => 233
+                    [sortname] => UY
+                    [name] => Uruguay
+                    [phoneCode] => 598
+                )
+
+            [233] => Array
+                (
+                    [id] => 234
+                    [sortname] => UZ
+                    [name] => Uzbekistan
+                    [phoneCode] => 998
+                )
+
+            [234] => Array
+                (
+                    [id] => 235
+                    [sortname] => VU
+                    [name] => Vanuatu
+                    [phoneCode] => 678
+                )
+
+            [235] => Array
+                (
+                    [id] => 236
+                    [sortname] => VA
+                    [name] => Vatican City State (Holy See)
+                    [phoneCode] => 39
+                )
+
+            [236] => Array
+                (
+                    [id] => 237
+                    [sortname] => VE
+                    [name] => Venezuela
+                    [phoneCode] => 58
+                )
+
+            [237] => Array
+                (
+                    [id] => 238
+                    [sortname] => VN
+                    [name] => Vietnam
+                    [phoneCode] => 84
+                )
+
+            [238] => Array
+                (
+                    [id] => 239
+                    [sortname] => VG
+                    [name] => Virgin Islands (British)
+                    [phoneCode] => 1284
+                )
+
+            [239] => Array
+                (
+                    [id] => 240
+                    [sortname] => VI
+                    [name] => Virgin Islands (US)
+                    [phoneCode] => 1340
+                )
+
+            [240] => Array
+                (
+                    [id] => 241
+                    [sortname] => WF
+                    [name] => Wallis And Futuna Islands
+                    [phoneCode] => 681
+                )
+
+            [241] => Array
+                (
+                    [id] => 242
+                    [sortname] => EH
+                    [name] => Western Sahara
+                    [phoneCode] => 212
+                )
+
+            [242] => Array
+                (
+                    [id] => 243
+                    [sortname] => YE
+                    [name] => Yemen
+                    [phoneCode] => 967
+                )
+
+            [243] => Array
+                (
+                    [id] => 244
+                    [sortname] => YU
+                    [name] => Yugoslavia
+                    [phoneCode] => 38
+                )
+
+            [244] => Array
+                (
+                    [id] => 245
+                    [sortname] => ZM
+                    [name] => Zambia
+                    [phoneCode] => 260
+                )
+
+            [245] => Array
+                (
+                    [id] => 246
+                    [sortname] => ZW
+                    [name] => Zimbabwe
+                    [phoneCode] => 26
+                )
+
+        )
+
+)
